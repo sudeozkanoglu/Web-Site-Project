@@ -30,6 +30,8 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 ### Backend
 - [ ] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
 - [ ] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
+### Btirme
+- [ ] İnternette Yayınlama
 
 ## Benimle İletişim İçin
 	ozkanoglusude@gmail.com
