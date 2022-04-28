@@ -26,7 +26,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 - [ ] Şehrim Sayfasının Oluşturulması ve Dizaynı
 - [ ] Mirasımız Sayfasının Oluşturulması ve Dizaynı
 - [ ] Login Sayfasının Oluşturulması ve Dizaynı
-- [ ] İletişim Sayfasının Oluşturulması ve Dizaynı
+- [x] İletişim Sayfasının Oluşturulması ve Dizaynı
 ### Backend
 - [ ] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
 - [ ] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
