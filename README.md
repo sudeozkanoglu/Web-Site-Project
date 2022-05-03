@@ -25,10 +25,10 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 - [ ] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
 - [ ] Şehrim Sayfasının Oluşturulması ve Dizaynı
 - [ ] Mirasımız Sayfasının Oluşturulması ve Dizaynı
-- [ ] Login Sayfasının Oluşturulması ve Dizaynı
+- [x] Login Sayfasının Oluşturulması ve Dizaynı
 - [x] İletişim Sayfasının Oluşturulması ve Dizaynı
 ### Backend
-- [ ] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
+- [x] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
 - [ ] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
 ### Btirme
 - [ ] İnternette Yayınlama
