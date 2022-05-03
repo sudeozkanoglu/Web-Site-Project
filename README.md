@@ -20,7 +20,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 ### Başlangıç
 - [x] Sayfa Taslaklarını Oluşturma
 ### Frontend 
-- [ ] Hakkımda Sayfasının Oluşturulması ve Dizaynı 
+- [x] Hakkımda Sayfasının Oluşturulması ve Dizaynı 
 - [ ] Özgeçmişim Sayfasının Oluşturulması ve Dizaynı
 - [ ] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
 - [ ] Şehrim Sayfasının Oluşturulması ve Dizaynı
