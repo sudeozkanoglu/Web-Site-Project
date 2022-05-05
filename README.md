@@ -21,15 +21,16 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 - [x] Sayfa Taslaklarını Oluşturma
 ### Frontend 
 - [x] Hakkımda Sayfasının Oluşturulması ve Dizaynı 
-- [ ] Özgeçmişim Sayfasının Oluşturulması ve Dizaynı
+- [x] Özgeçmişim Sayfasının Oluşturulması ve Dizaynı
 - [ ] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
-- [ ] Şehrim Sayfasının Oluşturulması ve Dizaynı
+- [x] Şehrim Sayfasının Oluşturulması ve Dizaynı
 - [ ] Mirasımız Sayfasının Oluşturulması ve Dizaynı
 - [x] Login Sayfasının Oluşturulması ve Dizaynı
 - [x] İletişim Sayfasının Oluşturulması ve Dizaynı
 ### Backend
 - [x] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
-- [ ] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
+- [x] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
+- [ ] İletişim Formundaki Bilgilerin İçeriğinin Yeni Bir Sayfada Rapor Edilmesi
 ### Btirme
 - [ ] İnternette Yayınlama
 
