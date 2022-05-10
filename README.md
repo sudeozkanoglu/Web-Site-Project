@@ -24,7 +24,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 - [x] Özgeçmişim Sayfasının Oluşturulması ve Dizaynı
 - [ ] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
 - [x] Şehrim Sayfasının Oluşturulması ve Dizaynı
-- [ ] Mirasımız Sayfasının Oluşturulması ve Dizaynı
+- [x] Mirasımız Sayfasının Oluşturulması ve Dizaynı
 - [x] Login Sayfasının Oluşturulması ve Dizaynı
 - [x] İletişim Sayfasının Oluşturulması ve Dizaynı
 ### Backend
