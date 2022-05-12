@@ -30,7 +30,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 ### Backend
 - [x] Kullanıcı Girişini Denetleyen PHP Kodlarının Yazılması
 - [x] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
-- [ ] İletişim Formundaki Bilgilerin İçeriğinin Yeni Bir Sayfada Rapor Edilmesi
+- [x] İletişim Formundaki Bilgilerin İçeriğinin Yeni Bir Sayfada Rapor Edilmesi
 ### Btirme
 - [ ] İnternette Yayınlama
 
