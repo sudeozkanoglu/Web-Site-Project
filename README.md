@@ -22,7 +22,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 ### Frontend 
 - [x] Hakkımda Sayfasının Oluşturulması ve Dizaynı 
 - [x] Özgeçmişim Sayfasının Oluşturulması ve Dizaynı
-- [ ] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
+- [x] İlgi Alanlarım Sayfasının Oluşturulması ve Dizaynı
 - [x] Şehrim Sayfasının Oluşturulması ve Dizaynı
 - [x] Mirasımız Sayfasının Oluşturulması ve Dizaynı
 - [x] Login Sayfasının Oluşturulması ve Dizaynı
@@ -32,7 +32,7 @@ HTML , CSS , JavaScript , Bootstrap , PHP
 - [x] İletişim Formundaki Bilgilerin İçeriğini ve Form Doluluğunu Kontrol Etmemizi Sağlayan JavaScript Kodlarının Yazılması
 - [x] İletişim Formundaki Bilgilerin İçeriğinin Yeni Bir Sayfada Rapor Edilmesi
 ### Btirme
-- [ ] İnternette Yayınlama
+- [x] İnternette Yayınlama
 
 ## Benimle İletişim İçin
 	ozkanoglusude@gmail.com
